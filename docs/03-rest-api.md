@@ -1,13 +1,3 @@
-# REST API Basics
+# REST API
 
-This is a placeholder for an interactive REST API simulation.
-
-## 🧪 Try It: Sample API Request
-
-Use the interactive sandbox below to simulate a simple `GET` request:
-
-```html
-<iframe src="https://hoppscotch.io/embed?method=GET&url=https://jsonplaceholder.typicode.com/posts/1" width="100%" height="400px"></iframe>
-```
-
-> 💡 Note: In a full version, this could be replaced with a secure embedded environment or integrated API tester.
+<iframe height="400" style="width: 100%;" scrolling="no" title="REST API Example" src="https://jsfiddle.net/gh/get/library/pure/jsfiddle/user/jsfiddle-demos/tree/master/ajax" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"></iframe>

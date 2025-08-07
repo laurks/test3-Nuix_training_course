@@ -1,5 +1,11 @@
-# JavaScript Exercises
+# JavaScript Exercise
 
-## Live Preview on JSFiddle
+This is a placeholder for an interactive JavaScript code block.
 
-<iframe width="100%" height="400" src="https://jsfiddle.net/gh/get/library/pure/jsfiddle/examples/tree/master?embedded=result,js,html,css" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+## 🧪 Try It: Basic Function
+
+```html
+<iframe height="400" style="width: 100%;" scrolling="no" title="JS Sandbox" src="https://jsfiddle.net/gh/get/library/pure/jsfiddle/examples/tree/master" frameborder="no" allowfullscreen></iframe>
+```
+
+> 💡 Learners can edit, run, and test code directly in the embedded sandbox.

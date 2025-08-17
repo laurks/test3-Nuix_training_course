@@ -25,6 +25,7 @@ nav:
 plugins:
   - search
   - awesome-pages
+  - mkdocs_quiz
   - git-revision-date-localized:
       fallback_to_build_date: true
   - mkdocs-video
